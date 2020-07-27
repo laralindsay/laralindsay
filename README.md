@@ -12,7 +12,7 @@ Take a look at my portfolio, and follow me in social networks ✨
 
  - [Meu Linkedin](https://www.linkedin.com/in/laralindsay0029/) 
    
-   - [Behance](https://www.behance.net/laralindsxy)
+ - [Behance](https://www.behance.net/laralindsxy)
    
-   - [Twitter](https://twitter.com/lindsxytwr)
+ - [Twitter](https://twitter.com/lindsxytwr)
 

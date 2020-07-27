@@ -1,16 +1,18 @@
-### Hello there ✨
+### Hello there, i'm Lara! ✨
 
-<!--
-**laralindsay/laralindsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Until 2018 I was on the backend side of the force! (C#, NodeJS, Angular, React)
 
-Here are some ideas to get you started:
+⚡ I really Love cats, Studio Ghibli and 2D animations! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ I'm a Animation and Chinese student 
+
+##
+###
+Take a look at my portfolio, and follow me in social networks ✨
+
+ - [Meu Linkedin](https://www.linkedin.com/in/laralindsay0029/) 
+   
+   - [Behance](https://www.behance.net/laralindsxy)
+   
+   - [Twitter](https://twitter.com/lindsxytwr)
+

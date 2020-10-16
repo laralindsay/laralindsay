@@ -2,7 +2,7 @@
 
 ⚡ Since 2018 I am studying Web and Mobile Development (C#, NodeJS, Angular, React)
 
-⚡ I really Love cats, Studio Ghibli and 2D animations! 
+⚡ I love cats, Studio Ghibli and 2D animations! 
 
 ⚡ I'm a Animation and Chinese student 
 

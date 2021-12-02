@@ -4,7 +4,7 @@
 
 ⚡ I love cats, Studio Ghibli and 2D animations! 
 
-⚡ I'm a French and Chinese student 
+⚡ French and Chinese student 
 
 ##
 ###

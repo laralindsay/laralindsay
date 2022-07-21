@@ -1,18 +1,14 @@
-### Hello there, i'm Lara! ✨
+## Hello there, my name is Lara! ✨
 
-⚡ Since 2018 I am studying Web and Mobile Development (C#, NodeJS, Angular, React)
+⚡ Front-end developer with 3 years of experience focusing on JavaScript, Angular, ReactJs and ASP.NET also putting database knowledge into practice on certain projects. Knowledge also with NodeJs, React Native VTEX and Python. Advanced English and French student. Currently studying Computer Science, with conclusion expected in 2026. 
+
+⚡ Besides that I like to seek new experiences and sensations, I am an adaptable and creative person, I try to use this to grow personally and professionally. 
 
 ⚡ I love cats, Studio Ghibli and 2D animations! 
 
-⚡ French and Chinese student 
-
 ##
 ###
-Take a look at my portfolio, and follow me in social networks ✨
 
- - [Meu Linkedin](https://www.linkedin.com/in/laralindsay0029/) 
-   
- - [Behance](https://www.behance.net/laralindsxy)
-   
- - [Twitter](https://twitter.com/lindsxytwr)
+[![LinkedIn] (https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=black)](https://www.linkedin.com/in/laralindsay0029)
+
 

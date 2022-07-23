@@ -8,6 +8,36 @@
 
 ##
 ###
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/laralindsay0029)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=grey&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/laralindsay0029)
 
 
+## Knowledge
+
+**Technologies**
+[!(https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]
+[!(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+[!(https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
+[!(https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]
+[!(https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]
+[!(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
+[!(https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
+[!(https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]
+[!(https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
+[!(https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+[!(https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+[!(https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]
+[!(https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)]
+
+
+**Software versioning**
+[!(https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/)]
+[!(https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/)]
+[!(https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&link=https://github.com/)]
+[!(https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/)]
+
+
+**OS**
+[!(https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)]
+[!(https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]
+[!(https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]
+[!(https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white)]

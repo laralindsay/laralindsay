@@ -14,7 +14,7 @@
 ## Knowledge
 
 **Technologies**
-[!(https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]
 [!(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
 [!(https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
 [!(https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]
@@ -40,4 +40,4 @@
 [!(https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)]
 [!(https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]
 [!(https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]
-[!(https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white)]
+[! [Windows OS](https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white)]

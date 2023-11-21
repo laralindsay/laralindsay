@@ -1,6 +1,6 @@
 ## Hello there, My name is Lara! ✨
 
-⚡ Front-end developer since 2018 focusing on JavaScript, Angular, ReactJs and C# also putting database knowledge into practice on certain projects. Knowledge with NodeJs, React Native VTEX and Python. Advanced English and Chinese student. Currently studying Computer Science, with conclusion expected in 2026. 
+⚡ Front-end developer since 2018 focusing on JavaScript, Angular, ReactJs and C# also putting database knowledge into practice on certain projects. Knowledge with Angular, NodeJs, React Native, DevOps, VTEX and Python. Advanced English and Chinese student. Currently studying Computer Science, with conclusion expected in 2026. 
 
 ⚡ Besides that I like to seek new experiences and sensations, I am an adaptable and creative person, I try to use this to grow personally and professionally. 
 
@@ -28,6 +28,7 @@
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/laralindsay/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/laralindsay/)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/laralindsay/)
+[![Azure](https://img.shields.io/azure-devops/coverage/swellaby/opensource/25.svg)](https://github.com/laralindsay/)
 
 
 **Software versioning**

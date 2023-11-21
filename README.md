@@ -15,8 +15,8 @@
 
 **Technologies**
 
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/laralindsay/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white?style=flat-square&logo=javascript&link=https://github.com/laralindsay/)](https://github.com/laralindsay/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white?style=flat-square&logo=javascript&link=https://github.com/laralindsay/)](https://github.com/laralindsay/)
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/laralindsay/)
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/laralindsay/)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/laralindsay/)
@@ -26,9 +26,8 @@
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/laralindsay/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/laralindsay/)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/laralindsay/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/laralindsay/)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/laralindsay/)
-[![Azure](https://img.shields.io/azure-devops/coverage/swellaby/opensource/25.svg)]
+[![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=azure&logoColor=white)](https://github.com/laralindsay/)
 
 
 **Software versioning**

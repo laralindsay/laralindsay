@@ -27,7 +27,7 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/laralindsay/)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/laralindsay/)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/laralindsay/)
-[![Azure](https://img.shields.io/badge/Azure-#0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://github.com/laralindsay/)
+[![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://github.com/laralindsay/)
 
 
 **Software versioning**
